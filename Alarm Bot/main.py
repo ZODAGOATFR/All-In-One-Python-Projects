@@ -1,7 +1,7 @@
 from tkinter import *
 import datetime
 import time
-import winsound
+import os
 from threading import *
 
 root = Tk()
