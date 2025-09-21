@@ -8,7 +8,7 @@ root = Tk()
 root.geometry("400x200")
 
 def Threading():
-	t1=Thread(target=alarm)
+	t1 = Thread(target=alarm)
 	t1.start()
 
 def alarm():
