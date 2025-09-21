@@ -20,8 +20,7 @@ def alarm():
 
 		if current_time == set_alarm_time:
 			print("Time to Wake up")
-			winsound.PlaySound("sound.wav",winsound.SND_ASYNC)
-
+			os.system("afplay sound.wav") 
 Label(root,text="Alarm Clock",font=("Helvetica 20 bold"),fg="red").pack(pady=10)
 Label(root,text="Set Time",font=("Helvetica 15 bold")).pack()
 
