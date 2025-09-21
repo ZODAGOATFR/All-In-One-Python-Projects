@@ -1,10 +1,13 @@
 from textblob import TextBlob
 
-t = 1
-while t:
-    a = input("Enter the word to be checked:- ")
-    print("Original text: "+str(a))
+while True:
+    a = input("Enter the word to be checked: ")
+    print(f"Original text: {a}")
 
     b = TextBlob(a)
-    print("Corrected text: "+str(b.correct()))
-    t = int(input("Try Again? 1 : 0 "))
+    print(f"Corrected text: {b.correct()}")
+
+    choice = input("Try Again? (y/n): ").strip().lower()
+    if choice != "y":
+        print("Goodbye!")
+        break
