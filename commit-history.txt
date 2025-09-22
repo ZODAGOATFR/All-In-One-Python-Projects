@@ -1,0 +1,344 @@
+* 31f80da55c18c4d49a533f5818f17aea8591b7ef | 2025-09-21T19:31:11-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  (HEAD -> main, origin/main, origin/HEAD) Fix Age Calculator
+* d3c003dfd9f5a5b9dfb4dcdff8cdb3446291be7e | 2025-09-21T19:30:21-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix Validate Email
+* ed6af8deca7f8c378349e3b5f9a3f8379e164075 | 2025-09-21T19:11:03-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix Youtube Video Downloader
+* ad40ac7e1a0899cfaf840d11cd719ee3a91e3a12 | 2025-09-21T18:58:56-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix URL Shortener Program
+* bd990212d40b466caebd950330231fec82fd6792 | 2025-09-21T18:53:36-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix Tic-Tac-Toe using AI (mini-max) Program
+* 9931cc6af92a08639ee71bdcdc35ef162f505544 | 2025-09-21T18:41:10-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix Translator
+* 927631ef96005105dea0950540bbcdcaacc1e390 | 2025-09-21T18:13:57-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix Spell Checker Program
+* e5e15fe8097e5dd8ba43b5df31b4fcac49b388ae | 2025-09-21T18:05:26-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix Password Generator Program
+* 1d75ccc0cee5ec842ad3d876c5b9263d964ffc06 | 2025-09-21T17:51:31-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fix Helmet Detection Program
+* 31f0ef748f386c1cdd1e747f03d74631f5b4627b | 2025-09-21T01:22:18-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Fixed Headlight Detection Program
+* ae1c09e27746af757bc7ba0fa736b80e5b4bbab9 | 2025-09-21T00:31:50-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Add Threading Method
+* b7ba72e716b19f80d435b14052674200e1c175c4 | 2025-09-21T00:29:51-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Add Python Range() Function
+* 8a1f2e625609e537f4ddbb2add67a0dd4276caaa | 2025-09-21T00:22:21-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Replace the Alarm Sound Playback
+* 7037ac07aa00c1b5c13df97ddf6a367bc4d0546d | 2025-09-21T00:13:44-05:00 | ZODAGOATFR <lonzojr7@gmail.com> |  Add import os
+*   5675c6daa7f7e4e79aae1d4d8d46dd4b25c0b01a | 2025-03-27T07:40:20+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #104 from GiovannaRMendes/feat-gauss
+|\  
+| * 2aab78ca11a34df0e9dcd6ba5e036da1692f291a | 2025-03-24T14:15:19-04:00 | GiovannaRMendes <giovanna223377@gmail.com> |  feat: Added Gauss Elimination
+|/  
+* 9c35061731abcf99948a96f8cdb4b2b84b6af898 | 2024-11-22T16:49:14Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+*   6a2ff2c8a1979645ca5fdbcbb14416c757d57807 | 2024-11-22T22:19:02+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #102 from Nandini-Sutrave/Snake_game_contribution
+|\  
+| * 3eea0a2c383a5973be657a53f5a2e4cb43422de0 | 2024-11-22T19:38:45+05:30 | Nandini <nsutrave17@gmail.com> |  Readme file added
+| * 5ba4b0885a4ea95bd53dcae36b3257459254cc3f | 2024-11-19T23:21:09+05:30 | Nandini <nsutrave17@gmail.com> |  Snake game
+* | c5b213262250f97f0f5ce3e3f19882ce30fbdde6 | 2024-11-21T17:30:24Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* |   c0e5d1a00e5bc19923442c4e34eea51eb2f963ab | 2024-11-21T23:00:13+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #101 from one-Alive/main
+|\ \  
+| |/  
+|/|   
+| * b1dce66857b8cc3a0bcbdfa61ba1769d7966b9bd | 2024-11-07T13:29:50+05:30 | one-Alive <manastiwari0816@gmail.com> |  done
+| * 956baf71876dc99b96abb4c58e5fc63f0bdb84db | 2024-11-07T13:22:02+05:30 | one-Alive <manastiwari0816@gmail.com> |  nlp
+|/  
+* 08a3dbe16f0770c34c1ee85aff7a2340381c9e42 | 2024-11-04T20:31:06Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+*   e7536739f55ba13bba70cbe311d168e3a365b135 | 2024-11-05T02:00:53+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #98 from Haob2110011/main
+|\  
+| * cc8b4d665ff9f4bb76e8d3a6711d6e19bb14bc7f | 2024-10-31T01:18:23+07:00 | Haob2110011 <haob2110011@student.ctu.edu.vn> |  Mood Based Music Recommender
+| * 990417c8cc5239a595ec7af291201a8087e0b5dd | 2024-10-23T04:09:16+07:00 | Haob2110011 <haob2110011@student.ctu.edu.vn> |  #30 issue: Mood Based Music Recommender
+* | 1347001ed3d293dba5afa7ebf4364cef489619b0 | 2024-10-25T18:06:33Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | 54879a611a7824268c60767c8ae193347a205321 | 2024-10-25T23:36:22+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  add: video processing tool
+* | 64e4528c2d80823de12e93daa47dbf410e402caa | 2024-10-25T17:58:09Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | 448f1078920f6eed791327f4fceb74dc11a0ae24 | 2024-10-25T23:27:58+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  add: custom GPT
+* | 97f9f26103746f28d459de5ddf3a8287063bebaa | 2024-10-25T17:41:01Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | faf948e987b26b2e56d6d62719662ed91e70200d | 2024-10-25T23:10:49+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  add: FastAPI Tutorial
+* | fdfb875bc61e648db292178a7956a823bfc4b22a | 2024-10-25T22:40:28+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  remove schedule job to generate project list
+* | dfdef076bc7cd0c6dfa82f86256b91c1b95a0693 | 2024-10-24T19:50:36Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* |   2d8f21ec010d7408fcaae9e18dae62f7a0a342de | 2024-10-25T01:20:25+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #84 from nepal143/Gesture-Based-Game-Controller
+|\ \  
+| * | 6f97fe8c1f21035d196b4ca8db42fc9c61a8c23d | 2024-10-24T23:33:17+05:30 | Nepal Singh <71310255+nepal143@users.noreply.github.com> |  Delete 2D-Platformer directory
+| * | 032f8e7542f3f7a878b9532c1497f5c8e58cde88 | 2024-10-24T23:29:33+05:30 | nepla143 <nepalsss007@gmail.com> |   added Gesture Based Game Controller
+* | |   3bc1c374e7875dbc998a43aa9ffda02d466a9f5c | 2024-10-25T01:13:42+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #82 from thugeyy/thugeyy
+|\ \ \  
+| * \ \   339273aaafb0d9c53be6495508355c5e82b2f5ae | 2024-10-24T23:05:17+07:00 | thugeyy <thugeyy712@gmail.com> |  Merge branch 'thugeyy' of https://github.com/thugeyy/All-In-One-Python-Projects into thugeyy
+| |\ \ \  
+| * | | | f1c1d6a90fb6157d02e47e0e4257cf32bc89e28b | 2024-10-24T23:01:20+07:00 | thugeyy <thugeyy712@gmail.com> |  Update README.md
+* | | | | 56fb78408826a69042c923da75172d315133065a | 2024-10-24T19:43:23Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | |   b9e4468b905e5ecbd2461dd35de8e211a21f570d | 2024-10-25T01:13:11+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #81 from Ashutoshdas-dev/main
+|\ \ \ \ \  
+| * | | | | b2fe96b0360446b5f9f1a6c97fd805711e79d3f3 | 2024-10-24T20:42:27+05:30 | ashutosh das <ashutoshdas@ashutoshs-MacBook-Air.local> |  Customizable Workout Playlist Generator
+| | |/ / /  
+| |/| | |   
+* | | | | ac12246a2f5ca5f53d96576e0ad639a55dbb1b28 | 2024-10-24T19:36:57Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | |   11f6c8f8e388f2f6af20b8efe3a2e83212d8003e | 2024-10-25T01:06:45+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #83 from nepal143/2D-platformer
+|\ \ \ \ \  
+| | |_|/ /  
+| |/| | |   
+| * | | | 8871ff26da4e73c5ce52b26201f8e92091a44609 | 2024-10-24T22:52:25+05:30 | nepla143 <nepalsss007@gmail.com> |   added support files
+| * | | | d74e1422a3fb3776e3efbb32efa10eb952c5f115 | 2024-10-24T22:49:37+05:30 | nepla143 <nepalsss007@gmail.com> |   added 2d platformer
+| |/ / /  
+* | | | bcfad076191ba5e1ae886b8b24a7b568683045e9 | 2024-10-24T19:24:10Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | |   85c2ead1c400dab919bf4558a48d9817c9806fe4 | 2024-10-25T00:53:58+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #79 from debojit11/main
+|\ \ \ \  
+| * | | | e30c089fe3a0acb039eebfb45327c7ed9eaac8b5 | 2024-10-24T12:39:38+05:30 | debojit11 <126899332+debojit11@users.noreply.github.com> |  Slight changes to the readme.md
+| * | | | 932318512930c3ce46356454f490375ac7e58b79 | 2024-10-24T12:38:13+05:30 | debojit11 <126899332+debojit11@users.noreply.github.com> |  Created readme.md with description of the file
+| * | | | 6d3f5d2588c2405e128fe201ddc3397b035f940c | 2024-10-24T12:35:07+05:30 | debojit11 <126899332+debojit11@users.noreply.github.com> |  Added the text_adventure_game.py python file
+| |/ / /  
+* | | | 05e14814d83b1583eea54814e7b885fcd3fe1bd7 | 2024-10-24T18:52:21Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | |   b857ce2244bac51fff80a97ae0ce39ccef9b2e69 | 2024-10-25T00:22:04+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #80 from rkt-1597/Word_Freq_Counter
+|\ \ \ \  
+| |/ / /  
+|/| | |   
+| * | | 8d8d056fdae4c2646ac11d092d98f00aaf1d10e7 | 2024-10-24T20:45:01+05:30 | rkt-1597 <activprithvi@gmail.com> |  Added requirments.txt file
+| * | | e4199e3440d20cfef54bf10bf06d0e37b242ad97 | 2024-10-24T20:44:15+05:30 | rkt-1597 <activprithvi@gmail.com> |  Removed reuirments.txt file
+| * | | c618774129a0148eac8b08fb947dac922d17208f | 2024-10-24T20:43:00+05:30 | rkt-1597 <activprithvi@gmail.com> |  Added requirments.txt file
+|/ / /  
+* | |   8c6ae325c118cb088ced8c5f70b6ced7b7f216bd | 2024-10-24T00:32:55+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #78 from raj-mistry-01/main
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 911c129cfc38f4b2842d35ae524e9304aae3cc4e | 2024-10-23T22:36:14+05:30 | Makwana Raj <151895608+raj-mistry-01@users.noreply.github.com> |  Updated Folder Structure
+| * | 50ad2c4746eac974b8f7a1e342b9a4e95434ff4c | 2024-10-23T15:27:23+05:30 | Makwana Raj <151895608+raj-mistry-01@users.noreply.github.com> |  Voice Assistant Added
+|/ /  
+* | cbf65e3d8300835b575150a50a4db10d7b8dae2a | 2024-10-22T17:41:19Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | 733085c3a0a89abea90dd93602dde04f525e55fb | 2024-10-22T23:10:35+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  refactor: mv enhanced ToDo App -> ToDoList/usr-name/ToDo App
+* | a8b0517ac46b8b29255a2caa4621990b3091c416 | 2024-10-22T17:12:02Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* |   89f5cd1e1c433d2df08a47068f1e4f79a8f53e0f | 2024-10-22T22:41:52+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #74 from konan625/main
+|\ \  
+| * | ea679de49ad71e6faf5ee9a9de1f1de1c7ffa129 | 2024-10-21T21:59:33+05:30 | aanchal625 <82753429+aanchal625@users.noreply.github.com> |  My-Personal-Journal Completed
+* | | 6ac43f3880a8b69210f8354e8dbe2fc59b5d9f2d | 2024-10-22T17:08:29Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | |   9693164fe16678c7b4c216e954ade9c2fa2b4118 | 2024-10-22T22:38:19+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #71 from RithwikBejadi/main
+|\ \ \  
+| * | | a108ed60fe22d76da2247865736704e596433b6f | 2024-10-19T23:12:31+05:30 | Sai Rithwik Bejadi <rithwikbejadi696@gmail.com> |  Readme
+| * | | f6cf5b0b2334a8013dd0ba820168eedb0b6026e5 | 2024-10-19T23:09:58+05:30 | Sai Rithwik Bejadi <rithwikbejadi696@gmail.com> |  To-Do List
+* | | | 7aa5b80fd14894b9436ddc3a58846c470082ad17 | 2024-10-22T17:08:03Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | |   57588381cc1b6652f0fd452b6d04a88556f8ea13 | 2024-10-22T22:37:50+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #67 from Ashutoshdas-dev/main
+|\ \ \ \  
+| * | | | 7265382dff2a068821861f6db65cf21ec798083b | 2024-10-18T21:51:51+05:30 | ashutosh das <ashutoshdas@ashutoshs-MacBook-Air.local> |  created a Mental health bot with ML and NLP
+* | | | | 9e5ff78eaf890976831de1d8537d313ae747dfe2 | 2024-10-22T17:07:16Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | |   27c6686fd049d52292d380c62d1dd54bd0189740 | 2024-10-22T22:37:03+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #66 from thugeyy/thugeyy
+|\ \ \ \ \  
+| | |_|_|/  
+| |/| | |   
+| * | | | a7f03293b86074ec3d6d6b90bda592507157a94c | 2024-10-19T08:29:12+07:00 | thugeyy <thugeyy712@gmail.com> |  Implement OCR Tool for Image-to-Text Conversion
+* | | | | 9dbbb35706f7883e9174fb7556babb93fb0a2064 | 2024-10-22T16:40:06Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | |   2f010f645ae4b7382b1d670565829578b0fe394f | 2024-10-22T22:09:54+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #40 from MeuHubPython/pomodoro
+|\ \ \ \ \  
+| * \ \ \ \   7736b46b4f3e64c7717c14893a029a6e24a38432 | 2024-10-19T12:27:55-03:00 | Gustavo Henrique <69739905+MeuHubPython@users.noreply.github.com> |  Merge branch 'king04aman:main' into pomodoro
+| |\ \ \ \ \  
+| * | | | | | ab12cddd1b62be361d0317be8a0976c1073c61c0 | 2024-10-19T12:23:13-03:00 | MeuHubPython <gustavotitara070@gmail.com> |  adding stop and pause features and input validation.
+| * | | | | | 0341ac29e02c7877c32ee810aa38a6906cc693df | 2024-10-15T14:35:07-03:00 | MeuHubPython <gustavotitara070@gmail.com> |  Python Simple Pomodoro Timer
+* | | | | | | 7b47319e115bff8789715c7ea4a1e68db2e1e9e9 | 2024-10-21T23:56:55+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  enhance welcome workflow
+* | | | | | | a5a97ef7a6e51f1fb887a5957a55992f7232abd5 | 2024-10-21T23:55:40+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Delete contributors workflow
+* | | | | | | 2477fc9289e2630f4c689d815a951c4870130355 | 2024-10-21T23:55:02+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Delete CONTRIBUTORS.svg
+* | | | | | | 56505910ac8a193bc4347c34a46f07e3c8653dcf | 2024-10-21T23:54:37+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  fix: contributors img loading
+* | | | | | | fd791489c2234358aa31d52ec903a032aba33b75 | 2024-10-21T18:01:36Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | | | |   79d8745acd9b56b06c968d11e29812355cded46b | 2024-10-21T23:31:23+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #69 from himanshumahajan138/feature/text-summarizer
+|\ \ \ \ \ \ \  
+| * | | | | | | b4ecb7c81fa4432e27f5c555389f37c5b38f903a | 2024-10-21T23:29:07+05:30 | Himanshu Mahajan <83700343+himanshumahajan138@users.noreply.github.com> |  Update README.md
+| * | | | | | | 4e52a827a4ae5a07faf1e3dde9569f602fe66a39 | 2024-10-21T23:27:30+05:30 | Himanshu Mahajan <83700343+himanshumahajan138@users.noreply.github.com> |  Update README.md
+| * | | | | | |   38831bb55a364bc5260b340396b22cbe2786b2ca | 2024-10-20T09:11:11+05:30 | Himanshu Mahajan <83700343+himanshumahajan138@users.noreply.github.com> |  Merge branch 'king04aman:main' into feature/add-text-summarizer
+| |\ \ \ \ \ \ \  
+| * | | | | | | | f0bcfd91fd1372d4b41b301dcf4dfee42c7e3d25 | 2024-10-19T16:03:23+05:30 | Mill GithHub Actions <mill-ci@localhost> |  Fixes: #32 ; Feature: Text Summarization Tool Using NLP ; Fixed
+| | |_|/ / / / /  
+| |/| | | | | |   
+* | | | | | | | b44ebf6b3bb428cdb865bb0cf878ed312092cd2c | 2024-10-21T17:45:56Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | | | | |   73568948c6b66bf29b9070168cfb7ac7fd677338 | 2024-10-21T23:15:42+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #43 from Naumantamboli/main
+|\ \ \ \ \ \ \ \  
+| |_|_|_|_|_|_|/  
+|/| | | | | | |   
+| * | | | | | | cfa05e9c48f58820e99385e95387905aacfc79cb | 2024-10-18T13:42:27+05:30 | Nauman Tamboli <141002585+Naumantamboli@users.noreply.github.com> |  Update README.md
+| * | | | | | | 113ee106ecb11f5f71f36a2b93cdebe29c3b8e4c | 2024-10-18T13:37:08+05:30 | Nauman Tamboli <141002585+Naumantamboli@users.noreply.github.com> |  Update tic_tac_toc.py
+| * | | | | | | f739cfd38f21610c1e84c92cdb589035e889c8a5 | 2024-10-18T13:34:55+05:30 | Nauman Tamboli <141002585+Naumantamboli@users.noreply.github.com> |  Update tic_tac_toc.py
+| * | | | | | | 13a28d21ef20f84475564b6d03092ace04d1cac4 | 2024-10-18T13:30:20+05:30 | Nauman Tamboli <141002585+Naumantamboli@users.noreply.github.com> |  Update requirements.txt
+| * | | | | | | 36689b719c67a5d34b9c8ce07d1dad7ae8e1f460 | 2024-10-17T18:07:22+05:30 | Nauman Tamboli <141002585+Naumantamboli@users.noreply.github.com> |  Create requirements.txt
+| * | | | | | | 94ef256b40aa7e79a0c4869853049a58bd3005f5 | 2024-10-17T18:05:49+05:30 | Nauman Tamboli <141002585+Naumantamboli@users.noreply.github.com> |  Create README.md
+| * | | | | | | 649422a691492d128f6a872fa38d693e52e094c8 | 2024-10-17T17:50:30+05:30 | Nauman Tamboli <141002585+Naumantamboli@users.noreply.github.com> |  Create tic_tac_toc.py
+| | |_|_|/ / /  
+| |/| | | | |   
+* | | | | | | 687b2efd29e2c0eb6e837bd817de2d24ec50c162 | 2024-10-21T07:19:08+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  chore: update contributors [skip ci]
+* | | | | | | aafe5639cc121c4c869f2804fd628b3b5aa7df87 | 2024-10-20T17:29:10Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | | | |   2717d1d5214785e8899b0a3bfbc421480c4c34a2 | 2024-10-20T22:58:58+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #72 from harshgsharma1501/harsh
+|\ \ \ \ \ \ \  
+| |_|_|/ / / /  
+|/| | | | | |   
+| * | | | | | 972c4060b7158187e35e67e49ad96a530ee00716 | 2024-10-20T01:25:52+05:30 | harsh1501 <harshgsharma1501@gmail.com> |  Removed the capcut file
+| * | | | | | 656351c75ef668f09e7527161c07b2aefd6cf753 | 2024-10-20T00:25:43+05:30 | harsh1501 <harshgsharma1501@gmail.com> |  added a runtine.txt requirements.txt and made the changes as requested
+| * | | | | | ae165e88bee55f218e109ed7857458e804d4dc6e | 2024-10-19T12:12:11+05:30 | harsh1501 <harshgsharma1501@gmail.com> |  The required changes are done
+| * | | | | | 8546cdf8a0143e5af693c08b7e0cee03ea1f824e | 2024-10-17T20:41:47+05:30 | harsh1501 <harshgsharma1501@gmail.com> |  I have created a ToDoList Application using tkinter library in python
+| |/ / / / /  
+* | | | | / 93ae6412ce1975ed2784bc6a843f8aea97174463 | 2024-10-20T07:27:03+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  chore: update contributors [skip ci]
+| |_|_|_|/  
+|/| | | |   
+* | | | | 0a2de59971c73922eeaf0a1dfbcf879ef3bb79ac | 2024-10-19T22:42:17+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  template for any other type of issues
+* | | | | ef74070375d9256f40ecd4f6568133200ed9deee | 2024-10-19T22:41:07+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  add feature request issue template
+* | | | | 506c1f03311eadcbd9276f77710cead5a0968ec2 | 2024-10-19T22:40:20+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  add bug issues template
+* | | | | a25311668c72ce97bcf47d1e7dfd16b5df71f830 | 2024-10-19T22:35:04+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Create config.yml
+* | | | | de808b464a52cee7992d4ffd9941f2eadc52cb8b | 2024-10-19T22:26:11+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  add project suggestion template for contributors
+* | | | | 0f7262bb3596a606d7efbbb10744e3e4f114aeb0 | 2024-10-19T16:04:49Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | |   9e7f3bc33dd16293a03a6e2f7ead6aaef278022e | 2024-10-19T21:34:39+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #62 from akshatgithubgre/main
+|\ \ \ \ \  
+| * \ \ \ \   e3f9bb54265e35d8171bf7956d83d32619e8f5c6 | 2024-10-19T06:36:35+05:30 | Akshat Srivastava <113674819+akshatgithubgre@users.noreply.github.com> |  Merge branch 'king04aman:main' into main
+| |\ \ \ \ \  
+| | | |/ / /  
+| | |/| | |   
+| * | | | | 7188af59d1e839766e45f7af0566866232496bbe | 2024-10-19T06:34:02+05:30 | Akshat Srivastava <akshat201103@gmail.com> |  a CLI resuem V2
+| * | | | | 3ab9886b3ad46236b319ae0c98d1813903cd3a74 | 2024-10-18T21:19:08+05:30 | Akshat Srivastava <akshat201103@gmail.com> |  a CLI interactive Python based Resume Builder
+* | | | | | a0c001ab9e0f5ac971099fbf1b94fe3d57befdeb | 2024-10-19T21:29:09+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  update perms for workflow
+* | | | | | 24c22bdb7031633fb32c410fdea4b14d7c40bf5c | 2024-10-19T15:49:15Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | | |   8472e26206a1de29bae2babbc7e58ec8a4ea8d09 | 2024-10-19T21:19:04+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #47 from aafaris/feature/crypto-tracker
+|\ \ \ \ \ \  
+| |_|/ / / /  
+|/| | | | |   
+| * | | | |   a80aa961609597dbecb25439ead865a3c41e318e | 2024-10-19T21:56:21+08:00 | aafaris <77536240+aafaris@users.noreply.github.com> |  Merge branch 'king04aman:main' into feature/crypto-tracker
+| |\ \ \ \ \  
+| |/ / / / /  
+|/| | | | |   
+* | | | | | 90a36fe8e77751ca5c1bd0cabb9ce06301417690 | 2024-10-18T19:48:04Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | | | 3378a2a4cfce7347b6bc56f72c228d858c926178 | 2024-10-19T01:17:55+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  minior Fix links in PROJECTS.md
+* | | | | | 1d80239e93450e09a5d9c394dbea878de23c9d56 | 2024-10-18T19:43:12Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | | | 28f672d96dc12f55a49d21a9d9c4b7fd71dbed94 | 2024-10-19T01:13:01+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Fix links in PROJECTS.md to point to correct tree structure
+* | | | | | 255f2c579e6a2a3e5d18fe04fa0a5ef10e2c31c0 | 2024-10-18T22:02:44+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  removed unused workflow
+| |_|_|_|/  
+|/| | | |   
+* | | | | 9dbe00e6528fed4f47657a447590354977a364fa | 2024-10-18T21:38:50+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Rename contributor_welcome.yml to welcome.yml
+* | | | | ac6006a77ac7efc91ef21e3578d14ec48be28486 | 2024-10-18T21:34:58+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  fix write perms bug
+| |/ / /  
+|/| | |   
+* | | | 5dfd8ea6cf264dd5dad7bc22d951335ee5e7f7b9 | 2024-10-18T20:35:17+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Update contributor_welcome.yml
+* | | | 9dc9d79e4ab18910a052b3df1920361d24e48672 | 2024-10-18T20:29:51+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Update contributor_welcome.yml
+* | | | 350bdc4a6973ad5a75a16bfefe2dc1cef0805e3c | 2024-10-18T19:00:18+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  fix: token issue
+* | | | 5e2c47e343190bdb59eb866a69841abf7f896bc0 | 2024-10-18T18:23:31+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Remove push trigger from Actions workflow
+* | | | 1617af4c9d9e87f93ad9a9034ef3af4731b3daa6 | 2024-10-18T12:51:11Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | 0e7d1e50066ba945d8128da101037dfad77088d1 | 2024-10-18T18:20:59+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  fix project name with hyperlink
+* | | | 38becf9b1ad35ac1c3e3fbfc1d140ab574b8659b | 2024-10-18T18:11:53+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Update contributors image
+* | | | 06ff68d8645c2ae49f291da11fb341ae0328656d | 2024-10-18T17:30:48+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  fixes: check for change
+* | | | 14b52223760eac4190c9acae479948fd4b8a5c6c | 2024-10-18T11:53:23Z | github-actions[bot] <github-actions[bot]@users.noreply.github.com> |  Update project list
+* | | | b2b733e3306717088f26705cf0bd185067f45bd3 | 2024-10-18T17:23:10+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  fix: fetch new refs before merge
+* | | | a636aeb876a7c08f5f085f0fc04f66e1994aa189 | 2024-10-18T16:52:11+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  chore: update contributors [skip ci]
+* | | | 4c0cfdfec1e1cb5077f59fa5cd3a6583108d651d | 2024-10-18T16:52:00+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  minior fixes
+* | | | cc1f0ba1ecc1904d6af298df4bae835d95bc461c | 2024-10-18T16:15:20+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  update PAT creds
+* | | | bfa70e68247ddf407d513e0aa6ceee4dd33f290b | 2024-10-18T16:02:04+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Add Project List Generator Workflow
+* | | | 20fe553c24fb003f2849f3b8bc9ca8ffebe6dfee | 2024-10-18T15:37:21+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Add contributors.yml
+* | | | 724297d0c9d34c22ca1ec8e2de79153f67463cd4 | 2024-10-18T15:25:37+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Add Auto Assign Reviewer Workflow
+* | | | 9beb06d71b0bba1a424747a399f4276a064bf79c | 2024-10-18T15:12:49+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  fix: minior version changes
+* | | | 3c61a556a5c5d4bd27161fae99ed43907f35ed41 | 2024-10-18T14:39:05+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Minior bug fixes
+* | | | a01f673240c4e6bbb573f06c57dd6037fb05622f | 2024-10-18T14:33:06+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Add PROJECT_SUGGESTION_TEMPLATE.md
+* | | | f064f17b9bb3c3d44135319749c9d39928dbbb2c | 2024-10-18T14:31:17+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Add Pull Request Template
+* | | | 43faaad94550a64561f884a859bcbad4da8e8b64 | 2024-10-18T14:21:11+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Add workflow for first time contributors
+* | | |   09aa017a8978021f3d770bbc42b47d172b060a62 | 2024-10-18T01:14:27+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #16 from Telomelonia/weatheralert
+|\ \ \ \  
+| * | | | 8136ae84276c1107e3b4df9a4ffbe47ff0945372 | 2024-10-18T01:12:35+05:30 | telomelonia <shuklas2002@gmail.com> |  add readme
+| * | | | 52ceb766860712f5536f36826d0a369683c3f7cf | 2024-10-17T17:20:05+05:30 | telomelonia <shuklas2002@gmail.com> |  added .env + documentation + error handling
+| * | | | b19a3f80876561bc51b2bff8c4b519cfdc3f5dd1 | 2024-10-09T00:16:36+05:30 | telomelonia <shuklas2002@gmail.com> |  req
+| * | | | 5c5ee53f049ee75834256dda94dec9889ab515f1 | 2024-10-09T00:14:56+05:30 | telomelonia <shuklas2002@gmail.com> |  add the proj
+* | | | |   5207c8df14e64cf489cc2745f577a57f37c8f704 | 2024-10-18T00:27:34+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #42 from naylin-dev/main
+|\ \ \ \ \  
+| * | | | | 2340445bc41309fad92298c652ee713caa219ea3 | 2024-10-17T07:12:38+06:30 | Nay Lin Tun <naylin.ucsy.99@gmail.com> |  Add README.md
+| * | | | | 926e5947df56af646f3616538179f53513793b50 | 2024-10-17T07:11:22+06:30 | Nay Lin Tun <naylin.ucsy.99@gmail.com> |  Update error handling, and tests for geographic distance script.
+| * | | | | 809ef682903f8470516f9ed9176db3bec515cad6 | 2024-10-16T22:56:39+06:30 | Nay Lin Tun <naylin.ucsy.99@gmail.com> |  add geographic distance and estimated travel time calculator
+| | |_|_|/  
+| |/| | |   
+* | | | |   a2d97659afc20b5792c85a45205546761976175a | 2024-10-18T00:24:55+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #21 from nepal143/Youtube-Video-Downloader
+|\ \ \ \ \  
+| |_|_|_|/  
+|/| | | |   
+| * | | | 6dfe97b975d7aef67c9de808cfec54b7ba450fa9 | 2024-10-17T00:59:18+05:30 | Nepal Singh <71310255+nepal143@users.noreply.github.com> |  Delete Recipe Finder with Meal Planner/runtime.txt
+| * | | | a9bba19a4959195965358d088f39be506323288a | 2024-10-17T00:58:13+05:30 | Nepal Singh <71310255+nepal143@users.noreply.github.com> |  Delete Recipe Finder with Meal Planner/main.py
+| * | | | 10c471708aa9496dcbe5b32598722227b52471eb | 2024-10-15T21:39:01+05:30 | nepla143 <nepalsss007@gmail.com> |   added Readme.md
+| * | | | 992c34c6d14691a00c545a33821730ff939f0046 | 2024-10-13T09:03:59+05:30 | nepla143 <nepalsss007@gmail.com> |   added Recipe Finder with Meal Planning feature
+| * | | | 190be5a26616a011d3c105702efd49e00d2bff5c | 2024-10-13T09:02:38+05:30 | nepla143 <nepalsss007@gmail.com> |   added Recipe Finder with Meal Planning feature
+| | | | * 7f013378d15fdcaf5d2d2aa88f9ba97e97edeca8 | 2024-10-19T21:24:31+08:00 | aafaris <77536240+aafaris@users.noreply.github.com> |  update script with input validation, error handling, data visual and readme
+| | | | * 9cc2f618f60d086139bf95173d0d8349da6979e5 | 2024-10-18T00:56:06+08:00 | aafaris <77536240+aafaris@users.noreply.github.com> |  add real-time crypto price tracker script
+| |_|_|/  
+|/| | |   
+* | | |   557c7f861a315c82a1a379b6051bcc7027e5e105 | 2024-10-17T00:49:55+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #10 from Toby1219/patch-1
+|\ \ \ \  
+| * | | | c3a7f812ac6d1d6b9056f64d2706719fb8ff8c33 | 2024-06-06T13:53:39+01:00 | Toby1219 <150697833+Toby1219@users.noreply.github.com> |  Update scrape.py
+| | |_|/  
+| |/| |   
+* | | |   d27e4d7fd7a62d8c6943c835d446968c98567e5a | 2024-10-17T00:29:51+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #22 from nepal143/Recipe_Finder_with_Meal_Planner
+|\ \ \ \  
+| * | | | 5fad7f83371f1ab6c2ef0c87a47f727e6d2a7427 | 2024-10-15T21:33:56+05:30 | nepla143 <nepalsss007@gmail.com> |   added Readme.md
+| * | | | 6816c4d1d3b6ac3fb3636725ac3c11d00f23ef92 | 2024-10-13T09:07:29+05:30 | nepla143 <nepalsss007@gmail.com> |   added Recipe Finder with Meal Planning feature
+| | |/ /  
+| |/| |   
+| * | | c702c126775a3bfe5d914334a10b2f30680675f7 | 2024-10-12T23:07:48+05:30 | nepla143 <nepalsss007@gmail.com> |   Initial YouTube Video Downloader project with yt-dlp integration
+| | |/  
+| |/|   
+* | |   b6ea04e6fd97b18a7d5b7681d747eed8ede6828d | 2024-10-17T00:14:11+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #41 from himanshumahajan138/feature/add-text-to-speech
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 61948138dd96e3cc47afa6fef00bfd3e202d79f8 | 2024-10-15T23:47:12+05:30 | Mill GithHub Actions <mill-ci@localhost> |  Fixes: #38 ; Adds Text-to-Speech Converter using gTTS
+|/ /  
+* |   d49deebbf519ed786fbf9ca37bddfac973c0d23e | 2024-10-12T22:41:28+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #18 from Sneha-S-D/Personal-Finance-Tracker
+|\ \  
+| * | 267563303c0271cd4265258b0fb38c8f0f976435 | 2024-10-09T16:12:54+05:30 | Sneha-S-Dabadi <snehaastrophile@gmail.com> |  Added personal finance tracker project
+| |/  
+* |   30a5de788ba205ce0cc3e42e999a7f48429d3762 | 2024-10-12T22:35:55+05:30 | Aman Kumar <62813940+king04aman@users.noreply.github.com> |  Merge pull request #19 from kajal-jotwani/Expense-splitter
+|\ \  
+| |/  
+|/|   
+| * 5dba37cb8636d917f96b488d1223246042bf53eb | 2024-10-10T15:01:12+05:30 | kajal-jotwani <kajaljotwani06@gmail.com> |  Added readme
+| * 36cb30f5d69f36fad047b79f7cf8ef6b074c3260 | 2024-10-10T14:51:05+05:30 | kajal-jotwani <kajaljotwani06@gmail.com> |  Added an Expense splitter for group outings
+|/  
+* c1d34bb212068d7dc7d99027e856b97814d78e37 | 2023-01-31T11:35:04+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added simple assistant with basic features.
+* 35f2eab94b719b6384a8c635a508e7b58de32b2f | 2023-01-31T11:33:43+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 97daacbeb9c9245b10316d06d95ec90c687796b5 | 2023-01-30T11:28:34+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added headlight detection program
+* 5c09aa86c4b83761eb493cb840fdb8d67f4a49b0 | 2023-01-30T11:27:49+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* db108475119835dcf14b85f07f4b09316326dffb | 2023-01-29T11:21:57+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added helmet detection program
+* 98447f88258b15eceb125b9efddddc4838a517c7 | 2023-01-29T11:19:51+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 77e31b294c9f490bef7953ab914d51bbc7674dc0 | 2023-01-28T10:48:56+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added image resizer program
+* 903bbec486059dffc8d20acfb154820dc85cfc50 | 2023-01-28T10:41:55+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Project Initial Setup
+* b113415d3ca5e789ea85c80cf293eef0f632ca6c | 2023-01-27T23:37:55+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added countdown timer using tkinter
+* c4f261871345841df807639e8bb4d2526270c457 | 2023-01-27T23:36:04+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 6985d18a443038f404c774776ea749da4fef26a3 | 2023-01-28T23:30:43+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added telegram bot using pyTelegramBotAPI
+* 0775110fce6ea6301c45a681e05b4b0e062b8936 | 2023-01-28T23:29:29+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Project setup
+* be2635dc2b9307d7bb200d29b955dc1363ef705a | 2023-01-27T01:24:43+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  docs: Updated project banner
+* 15c677b78309b326e3f2ab09fcfedaaf732b0c01 | 2023-01-26T19:58:42+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added web scraper script to scrape imdb and get movie details
+* 983f730afe40be1e59a5fdb401c2b23f53709f19 | 2023-01-26T19:57:22+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Project setup
+* 84c4fb407b832209d9a8c34974fb43311763d150 | 2023-01-26T19:43:05+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  docs: Updated contribution guidelines
+* d86c4e2699dbaba0738087e5d83d74d8e7b87e2a | 2023-01-26T19:19:24+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  doc: Updated README broken links.
+* ae3d2c2041c8514ed6223184ffcb76e342ad7a4f | 2023-01-26T19:07:26+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  docs: Added detailed documentation and guidelines into the project
+* 280ec0c60dce905aeaba39a6a16b3005526ad549 | 2023-01-25T12:37:29+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added url sortener with the help of pyshorteners
+* 4dce091b8bde67fb576baad8261e6d0f2ba1dc99 | 2023-01-25T12:35:22+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 904d656576445ee2cef192d4b6477f02ed6b4b5a | 2023-01-24T22:08:38+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added facebook video downloader program
+* bd4b609442ff467e4abf09e0aedeb00b8426f2b7 | 2023-01-24T22:08:13+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 0fc7a2e57d279ba661863e574ea77691355d22d5 | 2023-01-23T19:21:39+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Video to audio convertor
+* 4b99b24a8cd737b0802f561f002cfe85ba515f5c | 2023-01-23T19:17:52+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial project setup
+* e3ed8e075810b3a19d4d7523e83c3ed2102f2e66 | 2023-01-22T19:09:25+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added steganography project
+* 187027adc6abc7826b0f228315064ec7a18ae2da | 2023-01-22T19:06:43+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Project initial setup
+* 29c5691be12ba4ea07be599cb1b683a9e091c9bc | 2023-01-21T19:00:49+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added notepad basic program
+* 1fe58dfe052476f4408873bde18b759bd767b000 | 2023-01-21T18:56:43+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Project setup
+* 710658cb9979fb426e90f71016d6c1ad117f4121 | 2023-01-20T18:53:16+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added digital clock program
+* 4799cb44d6b1ba76468d67d0d08033b918461786 | 2023-01-20T18:50:05+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  chore: Updated Depedencies
+* 20d7859c9c0a17d4e2aaf67bc4d93d0a1e18d438 | 2023-01-20T18:36:35+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* b51a4964f50bc6c4114e49c4297998a669abdc7d | 2023-01-19T02:02:11+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added program to get quotes from website.
+* d11db57637f442a5f721d3a8e348add7ca9abd9d | 2023-01-19T01:58:25+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* eade40f78b64fdd319d5f3692858c9fa25ee3b89 | 2023-01-18T01:54:41+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added image reducer program.
+* 81ec453421827f4979dc14da21abc02aca264dd8 | 2023-01-18T01:48:12+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 39075a2e940cadb4f41757cc69eb4ac8e5a53644 | 2023-01-17T01:42:45+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added pdf merger program using pypdf
+* c6fdb88720f1fff204192cf0d9a748eb72f32671 | 2023-01-17T01:38:56+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* b15c161bbfd4c66307b8844ae61a93e4ee62a67c | 2023-01-16T01:27:53+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added currency converter using fixer[.]io
+* 6a9e80141404e4e57fe79fa8f7d5e5e1d2c1b17e | 2023-01-16T01:22:40+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 5a79151184d9e48d5faea5a4201189612b152530 | 2023-01-15T01:11:21+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added password generator program
+* 2ca9cf2e16ba62ea9582ae901ae26cbec3086194 | 2023-01-15T01:06:38+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 5090465a051ab262557cc8059296839e73e464d0 | 2023-01-14T17:43:18+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added speech to text program
+* 72f02fbb6ee44acbe7c9837adc61308728ea4d11 | 2023-01-14T17:41:42+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 1bc620671c3e9d8e45e6fc721a38e5b7e7ff9f2d | 2023-01-13T17:39:51+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added Spell checker program
+* ccf7c726a6de4cbf94f6571383d01de649cd93b7 | 2023-01-13T17:37:54+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 3ccad521c453bfe27aa9ccd24241cf93f44e46a2 | 2023-01-12T17:34:52+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added text to morse code program.
+* 9dfa3d0f0994a6ad2653ead2d926200d9784238e | 2023-01-12T17:32:44+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 1c4ccbb991fff8413501c54b0a31f31765841f64 | 2023-01-11T17:23:06+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added age calculator program
+* f83204234ffcdbd8103e5aeefc1555777ecc8e8a | 2023-01-11T17:20:14+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Commit
+* 310dd018516efee7b3ffbcea106c7827bf1cad0d | 2023-01-10T17:13:38+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added audiobook generator program
+* da0f37d106b6754c1d1630b1bd5f8bbced32f739 | 2023-01-10T17:12:17+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* ced6fc344b0d359ec26fdd40463180d2529afb0a | 2023-01-09T17:08:59+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added ascii art generator program
+* f69fdf62be5841309a3f3442937140dcb68837ba | 2023-01-09T17:07:28+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* d96edc1f0563792c0e687ce4935e56a152aad176 | 2023-01-08T17:05:08+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added alarms bot
+* 0eec497ef93f228a450881f474ddbf8b538efacf | 2023-01-08T17:03:32+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 1749ecc8946fc4fa6098df111d1ee38f76a4b351 | 2023-01-07T16:34:54+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added movie generator program
+* a6ec4d10c7d0a6c2a51fdce7afc9e53bae00aa48 | 2023-01-07T16:32:45+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 35ef181d22d569550176e77393e691dba73e7076 | 2023-01-06T16:22:08+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added translate feature using googletrans
+* 62f7bda4513b5ce03a9d830de4bd55f1ea41a235 | 2023-01-06T16:15:12+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* c88a99e23c5e598349fdbfdd2b19d754c282f20d | 2023-01-05T19:43:36+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added plagiasrism checker program and demo text file
+* 94a1e63dd8c8a16aa5581e9a1b018aafa832248e | 2023-01-05T19:36:43+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 7f97b45bdb6e510bcbf734b0a92fc400ba70ccf7 | 2023-01-04T19:23:38+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added email validation using RegEx
+* f4875e01df1786684a4283b2240134ab900baacf | 2023-01-04T19:22:03+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 58308f952c0d533f57e00c72d8b71604da7f11a5 | 2023-01-03T19:13:57+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added program to get mobile number details
+* 21f26a15c2f5f62ae0ac32f5bc6905605d4434dc | 2023-01-03T19:06:23+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* 2393dc724564a6a810239fa52c9b6d9d32786351 | 2023-01-02T19:04:06+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added advance QR Code Generator with example
+* afd07354723bf354d2873d6bd89b72f7301bdda7 | 2023-01-02T19:01:55+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added Basic QR Code generator
+* e3877e4090c740919ae618066b7cfad6b45f7d44 | 2023-01-02T19:00:21+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
+* a1e3ba864b4a99b0dc569a7c75e8315fe5586a03 | 2023-01-01T18:57:53+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  feat: Added text to handwriting feature
+* fc8bbd5748ce1a706bcd901625f5012c1322c022 | 2023-01-01T18:56:50+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Add: Added requirements and runtime file required for this project
+* 711d17e5ab335cdea7fecc4ad411636f425e7090 | 2023-01-01T18:55:45+05:30 | Aman Kumar <amanrajkumar4@gmail.com> |  Init: Initial Setup
